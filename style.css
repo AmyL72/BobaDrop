@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(238, 228, 247);
+    text-align:center;
+    color:rgb(130, 130, 145);
+    font-family: 'Times New Roman', Courier, monospace;
+
+}
+
+img {
+    border-radius:20px;
+    max-width: 25%;
+}
